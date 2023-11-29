@@ -1,4 +1,4 @@
-# Airplane-Data-Analysis-Project
+# Airlines-Data-Analysis-Project
 
 Created this amazing project with a report to present the findings. To create this project used a few libraries such as Pandas, Matplotlib, Seaborn, and Sqlite3 for using the SQL commands. The dataset is taken from the Kaggle website the link for the dataset is: https://www.kaggle.com/datasets/fiazbhk/airline-data-analysis
 
